@@ -1,0 +1,250 @@
+รูปแบบ sever2 scan1
+ระยะ1เมตร   ตัวScan_Address:a0:b7:65:58:ab:52
+sever1 Address:a0:b7:65:58:59:46
+sum rssi:-2636.000000
+average:-87.866669
+sever2 Adress:a0:b7:65:58:61:b6
+sum rssi:-2582.000000
+average:-86.066666
+/------------------------
+ระยะ2เมตร   ตัวScan_Address:a0:b7:65:58:ab:52
+sever1 Address:a0:b7:65:58:61:b6
+sum rssi:-2469.000000
+average:-82.300003
+sever2 Address:a0:b7:65:58:59:46
+sum rssi:-2418.000000
+average:-80.599998
+/-------------------------
+ระยะ3เมตร
+sever1 Address:a0:b7:65:58:59:46 
+sum rssi:-2409.000000
+average:-80.300003
+sever2 Address:a0:b7:65:58:61:b6
+sum rssi:-2724.000000
+average:-90.800003
+/--------------------------
+ระยะ4เมตร
+sever1 Address:a0:b7:65:58:59:46
+sum rssi:-2714.000000
+average:-90.466667
+sever2 Address:a0:b7:65:58:61:b6
+sum rssi:-2815.000000
+average:-93.833336
+/---------------------------
+ระยะ5เมตร
+sever1 Address:a0:b7:65:58:61:b6
+sum rssi:-2728.000000
+average:-90.933334 
+sever2 Address:a0:b7:65:58:59:46
+sum rssi:-2727.000000
+average:-90.900002
+/--------------------------------------------------------------------------------------
+/---------------------------------------------------------------------------------------
+รูปแบบ Scan2ตัว   server1ตัว Server_Address:a0:b7:65:58:61:b6 
+ระยะ1เมคร
+Scan Address:a0:b7:65:58:59:46 port com6
+SumRSSI: -2331.000000 
+average: -77.699997 
+
+Scan Address:a0:b7:65:58:ab:52 port com5
+SumRSSI: -2212.000000 
+average: -73.733330 
+
+/---------------------------------
+
+ระยะ2เมตร
+Scan Address:a0:b7:65:58:59:46 port com6
+SumRSSI: -2808.000000
+average: -93.599998 
+
+Scan Address:a0:b7:65:58:ab:52 port com5
+SumRSSI: -2814.000000
+average: -93.800003
+/--------------------------------------
+ระยะ3เมตร
+Scan Address:a0:b7:65:58:59:46 port com6
+SumRSSI: -2480.000000
+average: -82.666664   
+
+Scan Address:a0:b7:65:58:ab:52 port com5
+SumRSSI: -2362.000000
+average: -78.733330
+
+/-------------------------------
+ระยะ4เมตร
+Scan Address:a0:b7:65:58:59:46 port com6
+SumRSSI: -2590.000000 
+average: -86.333336
+
+Scan Address:a0:b7:65:58:ab:52 port com5
+SumRSSI: -2403.000000
+average: -80.099998
+
+/------------------------------------------
+ระยะ 5 เมตร
+Scan Address:a0:b7:65:58:59:46 port com6
+SumRSSI: -2884.000000 
+average: -96.133331
+
+Scan Address:a0:b7:65:58:ab:52 port com5
+SumRSSI: -2784.000000 
+average: -92.800003
+
+/-----------------------------------------------------------------------------------------
+/------------------------------------------------------------------------------------------
+รูปแบบ scan4    server1   :a0:b7:65:58:ab:52
+
+ระยะ1เมตร
+Scan Address:24:6f:28:2d:c2:92 port com6 max -70 min -82
+SumRSSI: -2186.000000 
+average: -72.866669       
+Scan Address:24:6f:28:95:ae:12 port com7 max -76 min -80
+SumRSSI: -2345.000000 
+average: -78.166664
+Scan Address:a0:b7:65:58:59:46 port com6 max -70 mim -77
+SumRSSI: -2198.000000 
+average: -73.266670
+Scan Address:a0:b7:65:58:61:b6 port com7 max -75 min -80
+SumRSSI: -2334.000000 
+average: -77.800003 
+
+/----------------------------------
+ระยะ2เมตร
+Scan Address:24:6f:28:2d:c2:92 port com6 min-89 max -83
+SumRSSI: -2567.000000 
+average: -85.566666
+Scan Address:24:6f:28:95:ae:12 port com7 min-95 max -88
+SumRSSI: -2694.000000 
+average: -89.800003
+Scan Address:a0:b7:65:58:59:46 port com6 min-96 max -84
+SumRSSI: -2706.000000 
+average: -90.199997
+Scan Address:a0:b7:65:58:61:b6 port com7 min-96 max -88
+SumRSSI: -2815.000000 
+average: -93.833336
+/----------------------------------
+ระยะ3เมตร
+Scan Address:24:6f:28:2d:c2:92 port com6 min-79 max-76
+SumRSSI: -2332.000000 
+average: -77.733330 
+Scan Address:24:6f:28:95:ae:12 port com7 min-90 max-84
+SumRSSI: -2573.000000 
+average: -85.766670
+Scan Address:a0:b7:65:58:59:46 port com6 min-84 max-80
+SumRSSI: -2463.000000 
+average: -82.099998
+Scan Address:a0:b7:65:58:61:b6 port com7 min-81 max-78
+SumRSSI: -2396.000000 
+average: -79.866669
+/----------------------------------
+ระยะ4เมตร
+Scan Address:24:6f:28:2d:c2:92 port com6 min-91 max-85
+SumRSSI: -2649.000000 
+average: -88.300003
+Scan Address:24:6f:28:95:ae:12 port com7 min-93 max-90
+SumRSSI: -2734.000000 
+average: -91.133331
+Scan Address:a0:b7:65:58:59:46 port com6 min-103  max-93
+SumRSSI: -2914.000000 
+average: -97.133331 
+Scan Address:a0:b7:65:58:61:b6 port com7 min-105 max-92
+SumRSSI: -2904.000000 
+average: -96.800003 
+/----------------------------------
+ระยะ5เมตร
+Scan Address:24:6f:28:2d:c2:92 port com6 min-92  max-86
+SumRSSI: -2659.000000 
+average: -88.633331
+Scan Address:24:6f:28:95:ae:12 port com7 min-97  max-91
+SumRSSI: -2762.000000 
+average: -92.066666
+Scan Address:a0:b7:65:58:59:46 port com6 min-95  max-89
+SumRSSI: -2757.000000 
+average: -91.900002
+Scan Address:a0:b7:65:58:61:b6 port com7 min-99  max-90
+SumRSSI: -2796.000000 
+average: -93.199997
+/-----------------------------------------------------------------------------------------
+/------------------------------------------------------------------------------------------
+รูปแบบ scan4    server1   :a0:b7:65:58:ab:92
+
+ระยะ1เมตร
+Scan Address:a0:b7:65:58:ab:52 port com6 min-88  max-77
+SumRSSI: -2427.000000 
+average: -80.900002
+Scan Address:24:6f:28:95:ae:12 port com7 min-86  max-78
+SumRSSI: -2436.000000 
+average: -81.199997
+
+Scan Address:a0:b7:65:58:59:46 port com6 min -89 max-82
+SumRSSI: -2508.000000 
+average: -83.599998
+Scan Address:a0:b7:65:58:61:b6 port com7 min -81 max-76
+SumRSSI: -2337.000000 
+average: -77.900002
+/-------------------------------------------------------------------
+ระยะ2เมตร
+Scan Address:a0:b7:65:58:ab:52 port com6 min-100  max-88
+SumRSSI: -2772.000000 
+average: -92.400002
+Scan Address:24:6f:28:95:ae:12 port com7 min-91  max-86
+SumRSSI: -2632.000000 
+average: -87.733330
+
+Scan Address:a0:b7:65:58:59:46 port com6 min-91  max-85
+SumRSSI: -2645.000000 
+average: -88.166664
+Scan Address:a0:b7:65:58:61:b6 port com7 min-95  max-87
+SumRSSI: -2729.000000 
+average: -90.966667
+/---------------------------------------------------------------------
+ระยะ3เมตร
+Scan Address:a0:b7:65:58:ab:52 port com6 min-90  max-83
+SumRSSI: -2634.000000 
+average: -87.800003
+Scan Address:24:6f:28:95:ae:12 port com7 min-100  max-74
+SumRSSI: -2277.000000 
+average: -75.900002
+
+Scan Address:a0:b7:65:58:59:46 port com6 min-82  max-79
+SumRSSI: -2429.000000 
+average: -80.966667 
+Scan Address:a0:b7:65:58:61:b6 port com7 min-99  max-90
+SumRSSI: -2823.000000 
+average: -94.099998
+/--------------------------------------------------------------------
+ระยะ4เมตร
+Scan Address:a0:b7:65:58:ab:52 port com6 min-100  max-92
+SumRSSI: -2849.000000 
+average: -94.966667
+Scan Address:24:6f:28:95:ae:12 port com7 min-94  max-88
+SumRSSI: -2729.000000 
+average: -90.966667 
+
+Scan Address:a0:b7:65:58:59:46 port com6 min-100  max-92
+SumRSSI: -2875.000000 
+average: -95.833336 
+Scan Address:a0:b7:65:58:61:b6 port com7 min-101  max-92
+SumRSSI: -2875.000000 
+average: -95.833336 
+/--------------------------------------------------------------------
+ระยะ5เมตร
+Scan Address:a0:b7:65:58:ab:52 port com6 min-93  max-88
+SumRSSI: -2725.000000 
+average: -90.833336
+Scan Address:24:6f:28:95:ae:12 port com7 min-98  max-90
+SumRSSI: -2771.000000 
+average: -92.366669
+
+Scan Address:a0:b7:65:58:59:46 port com6 min-97  max-89
+SumRSSI: -2767.000000 
+average: -92.233330
+Scan Address:a0:b7:65:58:61:b6 port com7 min-100  max-92
+SumRSSI: -2867.000000 
+average: -95.566666
+
+
+
+
+
+

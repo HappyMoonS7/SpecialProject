@@ -1,3 +1,4 @@
+
 from flask import Flask, request, abort
 from linebot import (LineBotApi, WebhookHandler)
 from linebot.exceptions import (InvalidSignatureError)
@@ -10,7 +11,7 @@ handler = WebhookHandler('60b52a19ff41f94dde3df82e39789686')#YOUR_CHANNEL_SECRET
 
 @app.route("/")
 def hello():
-    return "Hello World!"
+    return "hi"
 
 @app.route("/webhook",methods=['GET','POST'])
 def webhook():
@@ -48,7 +49,6 @@ def handle_beacon(event):
     #     TextSendMessage(
     #         text='Got beacon event. hwid={}, device_message(hex string)={}'.format(
     #             event.beacon.hwid, event.beacon.dm)))
-
 
 if __name__ == "__main__":
     app.run()
