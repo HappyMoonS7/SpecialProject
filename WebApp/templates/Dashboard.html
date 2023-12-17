@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <style>
+        #draggable-container {
+          width: 400px;
+          height: 400px;
+          border: 2px solid #ccc;
+          position: relative;
+          overflow: hidden;
+        }
+    
+        .draggable-item {
+          width: 100px;
+          height: 100px;
+          background-color: #3498db;
+          color: #fff;
+          text-align: center;
+          line-height: 100px;
+          position: absolute;
+        }
+      </style>
+    <title>Dashboard</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+</head>
+<body>
+    <div class="" id="draggable-container">
+        <div class="draggable-item" id="item1">Item 1</div>
+        <div class="draggable-item" id="item2">Item 2</div>
+        <!-- เพิ่มเมื่อต้องการสร้าง Draggable Item เพิ่มเติม -->
+    </div>
+    <script>
+        $(function() {
+          // ทำให้ Draggable Container
+        //   $("#draggable-container").draggable();
+      
+          // ทำให้ Draggable Item และจำกัดการ Drag ใน Container
+          $(".draggable-item").draggable({
+            containment: "#draggable-container"
+          });
+        });
+      </script>
+</body>
+</html>
